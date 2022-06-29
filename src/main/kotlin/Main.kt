@@ -1,3 +1,5 @@
-fun main(args: Array<String>) {
+import problemArchives.problem1
 
+fun main() {
+    problem1()
 }
