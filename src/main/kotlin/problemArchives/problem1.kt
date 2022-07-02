@@ -9,9 +9,13 @@ fun problem1() {
     val list = mutableListOf<Int>()
 
     for (number in 1 until 1000) {
-        if (number % 3 == 0 || number % 5 == 0){
+        if (number % 3 == 0 || number % 5 == 0) {
             list.add(number)
         }
     }
     println(list.sum())
 }
+
+/**
+ *  233168
+ */
