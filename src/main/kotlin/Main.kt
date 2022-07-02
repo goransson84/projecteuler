@@ -1,5 +1,5 @@
-import problemArchives.problem4
+import problemArchives.problem5
 
 fun main() {
-    problem4()
+    problem5()
 }
